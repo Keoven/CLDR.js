@@ -57,7 +57,7 @@
   });
 
   defineLanguageRule([
-    'ak', 'am', 'bh', 'fil', 'guw', 'hi', 'ln', 'mg', 'nso', 'tl', 'ti', 'wa'
+    'ak', 'am', 'bh', 'fil', 'ceb', 'guw', 'hi', 'ln', 'mg', 'nso', 'tl', 'ti', 'wa'
   ], function(n) {
     return n === 0 || n === 1 ? One : Other;
   });
